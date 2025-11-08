@@ -13,7 +13,7 @@ API_URL = 'https://gazellegames.net/api.php'
 REQUEST_STRING = '?request='
 SEARCH_STRING = REQUEST_STRING + 'search&search_type=torrents'
 
-SPECIAL_EDITIONS = ["redump", "nointro", "no-intro", "no intro"]
+SPECIAL_EDITIONS = ["redump"]
 USA_REGIONS = ["USA", "NTSC"]
 EUR_REGIONS = ["Europe", "PAL", "PAL-E"]
 JPN_REGIONS = ["Japan", "NTSC-J"]
